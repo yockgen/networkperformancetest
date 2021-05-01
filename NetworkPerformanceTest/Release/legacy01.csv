@@ -1,0 +1,11 @@
+Mode,Thread Id,Output File, WRITE Duration (Seconds),WRITE Start,WRITE End,WRITE Bytes,WRITE MB,READ Duration (Seconds),READ Start,READ End,READ Bytes,READ MB
+0,1716,\\cmode.pg-itenvnas02.altera.com\te_dvs\DVS_Workspace\Debug\mah\INTEL_1716.test,38,Thu Apr 06 09:43:53 2017,Thu Apr 06 09:44:31 2017,10485760,10,2,Thu Apr 06 09:44:31 2017,Thu Apr 06 09:44:33 2017,10485760,10
+0,17864,\\cmode.pg-itenvnas02.altera.com\te_dvs\DVS_Workspace\Debug\mah\INTEL_17864.test,40,Thu Apr 06 09:43:53 2017,Thu Apr 06 09:44:33 2017,10485760,10,3,Thu Apr 06 09:44:33 2017,Thu Apr 06 09:44:36 2017,10485760,10
+0,21864,\\cmode.pg-itenvnas02.altera.com\te_dvs\DVS_Workspace\Debug\mah\INTEL_21864.test,43,Thu Apr 06 09:43:53 2017,Thu Apr 06 09:44:36 2017,10485760,10,2,Thu Apr 06 09:44:36 2017,Thu Apr 06 09:44:38 2017,10485760,10
+0,19716,\\cmode.pg-itenvnas02.altera.com\te_dvs\DVS_Workspace\Debug\mah\INTEL_19716.test,40,Thu Apr 06 09:43:53 2017,Thu Apr 06 09:44:33 2017,10485760,10,3,Thu Apr 06 09:44:33 2017,Thu Apr 06 09:44:36 2017,10485760,10
+0,22148,\\cmode.pg-itenvnas02.altera.com\te_dvs\DVS_Workspace\Debug\mah\INTEL_22148.test,42,Thu Apr 06 09:43:53 2017,Thu Apr 06 09:44:35 2017,10485760,10,3,Thu Apr 06 09:44:35 2017,Thu Apr 06 09:44:38 2017,10485760,10
+0,15340,\\cmode.pg-itenvnas02.altera.com\te_dvs\DVS_Workspace\Debug\mah\INTEL_15340.test,40,Thu Apr 06 09:43:53 2017,Thu Apr 06 09:44:33 2017,10485760,10,3,Thu Apr 06 09:44:33 2017,Thu Apr 06 09:44:36 2017,10485760,10
+0,15168,\\cmode.pg-itenvnas02.altera.com\te_dvs\DVS_Workspace\Debug\mah\INTEL_15168.test,43,Thu Apr 06 09:43:53 2017,Thu Apr 06 09:44:36 2017,10485760,10,2,Thu Apr 06 09:44:36 2017,Thu Apr 06 09:44:38 2017,10485760,10
+0,12912,\\cmode.pg-itenvnas02.altera.com\te_dvs\DVS_Workspace\Debug\mah\INTEL_12912.test,44,Thu Apr 06 09:43:53 2017,Thu Apr 06 09:44:37 2017,10485760,10,2,Thu Apr 06 09:44:37 2017,Thu Apr 06 09:44:39 2017,10485760,10
+0,22460,\\cmode.pg-itenvnas02.altera.com\te_dvs\DVS_Workspace\Debug\mah\INTEL_22460.test,40,Thu Apr 06 09:43:53 2017,Thu Apr 06 09:44:33 2017,10485760,10,3,Thu Apr 06 09:44:33 2017,Thu Apr 06 09:44:36 2017,10485760,10
+0,7240,\\cmode.pg-itenvnas02.altera.com\te_dvs\DVS_Workspace\Debug\mah\INTEL_7240.test,38,Thu Apr 06 09:43:53 2017,Thu Apr 06 09:44:31 2017,10485760,10,2,Thu Apr 06 09:44:31 2017,Thu Apr 06 09:44:33 2017,10485760,10
